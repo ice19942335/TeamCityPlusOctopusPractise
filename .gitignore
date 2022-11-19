@@ -1,1 +1,4 @@
 ﻿/.idea/.idea.WebApplication1/.idea/
+.dll
+.pdb
+.cache
